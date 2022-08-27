@@ -6,6 +6,36 @@
 
 [Template CRUD - HTML + Tailwind + Font Awesome](https://janzenfaidiban.github.io/starter-template-crud/template-crud-tailwind/)
 
+## Screenshot
+
+### Halaman Index
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-index.png?raw=true">
+
+### Halaman Read
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-read.png?raw=true">
+
+### Halaman Read Detail
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-detail.png?raw=true">
+
+### Halaman Creat
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-create.png?raw=true">
+
+### Halaman Update
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-update.png?raw=true">
+
+### Halaman Update
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-update.png?raw=true">
+
+### Halaman Delete
+
+<img src="https://github.com/janzenfaidiban/starter-template-crud/blob/main/_screenshot/screenshot-delete.png?raw=true">
+
 ## Instal Tailwind CSS
 
 Pasang link CDN Tailwind CSS di bagian ```<head>...</head>```
