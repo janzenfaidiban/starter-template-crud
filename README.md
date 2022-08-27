@@ -2,8 +2,9 @@
 
 ## Demos
 
-[Template CRUD - HTML Only]()
-[Template CRUD - HTML + Tailwind + Font Awesome]()
+[Template CRUD - HTML Only](https://janzenfaidiban.github.io/starter-template-crud/template-crud/)
+
+[Template CRUD - HTML + Tailwind + Font Awesome](https://janzenfaidiban.github.io/starter-template-crud/template-crud-tailwind/)
 
 ## Instal Tailwind CSS
 
