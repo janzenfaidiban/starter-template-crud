@@ -1,5 +1,9 @@
 # Starter Template CRUD
 
+## Demos
+
+[Template CRUD - HTML Only]()
+[Template CRUD - HTML + Tailwind + Font Awesome]()
 
 ## Instal Tailwind CSS
 
